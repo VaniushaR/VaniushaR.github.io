@@ -17,10 +17,13 @@
   align-items: center;
   margin-top: 20em;
 }
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 959px) {
   .table-grid {
     grid-template-columns: 1fr;
-    margin-top: 38em;
+    margin-top: 50em;
+  }
+  .tablero {
+    margin-left: 4%;
   }
 }
 .card-5 {

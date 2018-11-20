@@ -23,8 +23,12 @@ class Projects extends Component {
           <div>
             <h3 className="subtitle">Nierika Social Network</h3>
             <div className="box-buttons">
-              <button className="text-btn">Ver Demo</button>
-              <button className="text-btn">Ver Repositorio</button>
+              <a href="https://vaniushar.github.io/nierika/">
+                <button className="text-btn">Ver Demo</button>
+              </a>
+              <a href="https://github.com/VaniushaR/nierika">
+                <button className="text-btn">Ver Repositorio</button>
+              </a>
             </div>
           </div>
         </div>
@@ -45,8 +49,12 @@ class Projects extends Component {
           <div>
             <h3 className="subtitle">Burger Queen</h3>
             <div className="box-buttons">
-              <button className="text-btn">Ver Demo</button>
-              <button className="text-btn">Ver Repositorio</button>
+              <a href="https://vaniushar.github.io/cdmx-2018-06-bc-core-am-burger-queen/">
+                <button className="text-btn">Ver Demo</button>
+              </a>
+              <a href="https://github.com/VaniushaR/cdmx-2018-06-bc-core-am-burger-queen">
+                <button className="text-btn">Ver Repositorio</button>
+              </a>
             </div>
           </div>
         </div>
@@ -63,8 +71,12 @@ class Projects extends Component {
           </div>
           <h3 className="subtitle">Callejeros</h3>
           <div className="box-buttons">
-            <button className="text-btn">Ver Demo</button>
-            <button className="text-btn">Ver Repositorio</button>
+            <a href="https://vaniushar.github.io/MxHacksV-Callejeros/views/login.html">
+              <button className="text-btn">Ver Demo</button>
+            </a>
+            <a href="https://github.com/VaniushaR/MxHacksV-Callejeros">
+              <button className="text-btn">Ver Repositorio</button>
+            </a>
           </div>
         </div>
       </div>

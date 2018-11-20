@@ -101,10 +101,10 @@
   color: black;
 }
 /* mediaquery for small screens */
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 959px) {
   .container-grid {
     display: grid;
-    grid-template: 25% 8% 50% 50% repeat(3, 80%) 5% 5% / 1fr 1fr 1fr;
+    grid-template: 30% 8% 50% 50% repeat(3, 80%) 5% 5% / 1fr 1fr 1fr;
     grid-template-areas:
       'header header header'
       'nav-bar nav-bar nav-bar'
@@ -118,15 +118,15 @@
     grid-row-gap: 5%;
   }
   .logo {
-    max-width: 120%;
-    max-height: 120%;
+    max-width: 110%;
+    max-height: 110%;
   }
   .profile {
     padding: 0%;
     text-align: center;
   }
   .profile-pic {
-    margin-top: 1em;
+    margin-top: 0em;
   }
   .title {
     font-size: 5em;

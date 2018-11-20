@@ -2,9 +2,10 @@
   padding: 5%;
   text-align: left;
 }
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 959px) {
   .write-area {
     text-align: center;
+    padding: 3%;
   }
 }
 /*

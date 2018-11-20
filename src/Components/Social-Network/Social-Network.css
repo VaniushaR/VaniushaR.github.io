@@ -3,8 +3,7 @@
   padding: 3%;
   margin-top: 110em;
 }
-
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 959px) {
   .container-sn {
     margin-top: 260em;
     width: 100%;

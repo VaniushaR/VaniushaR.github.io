@@ -9,10 +9,10 @@
   align-items: center;
   justify-content: center;
 }
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 959px) {
   .cards-grid {
     grid-template-columns: 1fr;
-    margin-top: 150em;
+    margin-top: 155em;
     padding: 5%;
     grid-gap: 5%;
   }

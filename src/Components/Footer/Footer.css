@@ -8,7 +8,7 @@
   margin-top: 136em;
   margin-left: 15%;
 }
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 959px) {
   .footer-sticky-area {
     margin-top: 265em;
     margin-left: 5%;
