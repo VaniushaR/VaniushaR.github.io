@@ -5,7 +5,7 @@ class FooterC extends Component {
   render() {
     return (
       <div className="footer-sticky-area">
-        <footer className="footer-p text-center shadow ">
+        <footer className="footer-p text-center shadow">
           <p>Vania Ramírez A. 2018.</p>
         </footer>
       </div>

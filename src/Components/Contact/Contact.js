@@ -10,7 +10,7 @@ class Contact extends Component {
           <button className="footer-btn">
             <a
               className="ancor-footer"
-              href="mailto:vaniusha.ra@gmail.com.com?Subject=Hello%20again"
+              href="mailto:vaniusha.ra@gmail.com?Subject=Hello!%20nice%20to%20meet%20you,%20sure%20we%20could%20work%20together%20and%20find%20a%20tec%20solution%20for%20you."
             >
               <i className="fas fa-envelope-open-text fa-3x" />
             </a>

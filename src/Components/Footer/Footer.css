@@ -1,5 +1,5 @@
 .footer-p {
-  text-shadow: 2px 1px mediumturquoise;
+  text-shadow: 2px 1px pink;
   font-family: 'Oswald', sans-serif;
   font-size: 200%;
   color: black;
@@ -10,7 +10,10 @@
 }
 @media screen and (max-width: 959px) {
   .footer-sticky-area {
-    margin-top: 265em;
+    margin-top: 275em;
     margin-left: 5%;
+  }
+  .footer-p {
+    font-size: 150%;
   }
 }
