@@ -3,8 +3,8 @@ import posed from 'react-pose';
 import SocialData from './SocialData';
 import './Social-Network.css';
 import AnimatedWork from '../Animation/Animation';
-import CVE from '../../Assets/English CV.pdf';
-import CVS from '../../Assets/Español CV.pdf';
+import CVE from '../../Assets/Vania Ramírez cv English.pdf';
+import CVS from '../../Assets/Vania Ramírez cv Español.pdf';
 
 const Content = posed.div({
   closed: { height: 0 },
