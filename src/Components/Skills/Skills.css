@@ -15,12 +15,12 @@
   grid-template-columns: 1fr 1fr 1fr;
   padding: 5%;
   align-items: center;
-  margin-top: 20em;
+  margin-top: 25em;
 }
 @media screen and (max-width: 959px) {
   .table-grid {
     grid-template-columns: 1fr;
-    margin-top: 50em;
+    margin-top: 40em;
   }
   .tablero {
     margin-left: 4%;

@@ -31,8 +31,6 @@ class App extends Component {
           </a>
         </div>
 
-        <div className="nav-bar shadow" />
-
         <div className="about-me">
           <AboutMe />
         </div>
@@ -61,18 +59,6 @@ class App extends Component {
 export default App;
 
 /*
-import { library } from '@fortawesome/fontawesome-svg-core';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {
-  faStroopwafel,
-  faEnvelope,
-  faEnvelopeOpen
-} from '@fortawesome/free-solid-svg-icons';
-
-library.add(faStroopwafel, faEnvelope, faEnvelopeOpen, faFacebook);
-
-
- <div className="slider">
-          <SliderAboutMe />
-        </div>
+<div className="nav-bar shadow" />
+nav deco bar
 */

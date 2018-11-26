@@ -1,11 +1,11 @@
 .container-sn {
   width: 100%;
   padding: 3%;
-  margin-top: 110em;
+  margin-top: 120em;
 }
 @media screen and (max-width: 959px) {
   .container-sn {
-    margin-top: 260em;
+    margin-top: 270em;
     width: 100%;
   }
   .title-sn {

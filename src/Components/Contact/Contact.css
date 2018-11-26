@@ -5,7 +5,7 @@
   position: fixed;
   right: 0;
   bottom: 0;
-  width: 40%;
+  width: 20%;
   height: auto;
   background-color: rgba(255, 255, 255, 0.626);
   text-align: center;
@@ -22,6 +22,16 @@
 }
 .footer-btn:hover {
   border: 3px dashed turquoise;
+}
+
+@media screen and (max-width: 959px) {
+  .footer-txt {
+    font-size: 1.2em;
+  }
+  .footer-style {
+    border-bottom-left-radius: 0%;
+    border-top-right-radius: 0%;
+  }
 }
 
 /*

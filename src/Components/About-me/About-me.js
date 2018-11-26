@@ -6,7 +6,7 @@ class AboutMe extends Component {
   render() {
     return (
       <div className="write-area shadow">
-        <Typing speed={15}>
+        <Typing speed={6}>
           <h2 className="subtitle">Hi! I'm Vania</h2>
           <Typing.Delay ms={2000} />
           <section className="hand-writing">
@@ -19,12 +19,17 @@ class AboutMe extends Component {
             <Typing.Delay ms={1000} />
             <Typing.Backspace count={6} />
             <span> I want to learn Natural Language Processing!</span> <br />
+            <br />
             <span> I have studied Linguistics at the FFyL-UNAM,</span> <br />
             <span>
               then I become interested in Computational Linguistics and I
-              realized I have to learn programming, I met JavaScript in
-              Laboratoria and I fell in love, now I'm learning Python also.
+              realized I have to learn programming, I met JavaScript in{' '}
+              <a className="href-aboutme" href="https://www.laboratoria.la/">
+                Laboratoria
+              </a>
+              and I fell in love, now I'm learning Python also.
             </span>
+            <br />
             <br />
             <Typing.Delay ms={1500} />
             <span> I'm mexican,</span>
