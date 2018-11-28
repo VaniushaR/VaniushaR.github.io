@@ -26,7 +26,7 @@ class AboutMe extends Component {
               realized I have to learn programming, I met JavaScript in{' '}
               <a className="href-aboutme" href="https://www.laboratoria.la/">
                 Laboratoria
-              </a>
+              </a>{' '}
               and I fell in love, now I'm learning Python also.
             </span>
             <br />

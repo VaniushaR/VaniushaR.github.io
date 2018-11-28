@@ -15,7 +15,7 @@ class Projects extends Component {
             />
             <div className="middle">
               <p>
-                This is a project buit with React Js, Firestore, Firebase,
+                This is a project built with React Js, Firestore, Firebase,
                 Semantic UI React.
               </p>
             </div>
@@ -41,7 +41,7 @@ class Projects extends Component {
             />
             <div className="middle">
               <p>
-                This is a proyect buit with React JS, Firestore, Firebase and
+                This is a proyect built with React JS, Firestore, Firebase and
                 Materialize.
               </p>
             </div>
@@ -66,7 +66,7 @@ class Projects extends Component {
               className="project-img callejeros"
             />
             <div className="middle">
-              <p>This project is buit with JS Vanilla. </p>
+              <p>This project is built with JS Vanilla. </p>
             </div>
           </div>
           <h3 className="subtitle">Callejeros</h3>

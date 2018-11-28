@@ -59,7 +59,7 @@ class Skills extends Component {
               <div className="card">
                 <section className="card-back">
                   <span>
-                    <p>JavaScript ECS6</p>
+                    <p>JavaScript ES6</p>
                   </span>
                   <span>
                     <p>React JS</p>
@@ -101,9 +101,6 @@ class Skills extends Component {
                   </span>
                   <span>
                     <p>GitHub</p>
-                  </span>
-                  <span>
-                    <p>GitHub Pages</p>
                   </span>
                   <span>
                     <p>Firebase</p>
