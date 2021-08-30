@@ -1,0 +1,18 @@
+.footer-p {
+  font-family: 'Oswald', sans-serif;
+  font-size: 200%;
+  color: black;
+}
+.footer-sticky-area {
+  margin-top: 140em;
+  margin-left: 15%;
+}
+@media screen and (max-width: 959px) {
+  .footer-sticky-area {
+    margin-top: 275em;
+    margin-left: 5%;
+  }
+  .footer-p {
+    font-size: 150%;
+  }
+}
