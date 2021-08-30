@@ -6,7 +6,7 @@ class FooterC extends Component {
     return (
       <div className="footer-sticky-area">
         <footer className="footer-p text-center">
-          <p>Vania Ramírez A. 2018.</p>
+          <p>Vania Ramírez A. 2021.</p>
         </footer>
       </div>
     );

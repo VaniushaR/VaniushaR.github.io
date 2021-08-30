@@ -35,7 +35,6 @@ class App extends Component {
           <AboutMe />
         </div>
         <div className="cv" />
-
         <div className="skills mt-10">
           <Skills />
         </div>

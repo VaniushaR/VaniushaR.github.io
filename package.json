@@ -6,7 +6,8 @@
     "react": "^16.6.3",
     "react-card-flipper": "^1.0.1",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-responsive-carousel": "^3.2.21",
+    "react-scripts": "^2.1.8"
   },
   "homepage": "https://vaniushar.github.io",
   "scripts": {

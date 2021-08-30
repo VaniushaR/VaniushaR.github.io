@@ -6,6 +6,7 @@ import AnimatedWork from '../Animation/Animation';
 import CVE from '../../Assets/Vania Ramírez cv English.pdf';
 import CVS from '../../Assets/Vania Ramírez cv Español.pdf';
 
+
 const Content = posed.div({
   closed: { height: 0 },
   open: { height: 'auto' }

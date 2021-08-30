@@ -3,7 +3,7 @@ export default [
     title: 'Medium',
     content: ` ✍︎ Read some of my latest entries 
     "Enchúlame mi VSC" and "How to create-react-app with GitHub pages deploy (the easiest way in 9 steps)"`,
-    link: `https://medium.com/@vaniusharamrez`
+    link: `https://vaniusha.medium.com/`
   },
   {
     title: 'GitHub',

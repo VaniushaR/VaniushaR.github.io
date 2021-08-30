@@ -7,7 +7,7 @@
   height: 100vh;
   width: 100vw;
   display: grid;
-  grid-template: 50% 8% 50% repeat(3, 80%) 5% 5% / 1fr 1fr 1fr;
+  grid-template: 50% 8% 50% repeat(3, 80%) 5% 5% / 1fr 1fr 1fr; 
   grid-template-areas:
     'header header header'
     'nav-bar nav-bar nav-bar'
@@ -54,7 +54,6 @@
   grid-area: about-me;
   align-items: center;
 }
-
 .skills {
   grid-area: skills;
   align-items: center;
@@ -63,9 +62,7 @@
 .social-feed {
   grid-area: social-feed;
 }
-.slider {
-  grid-area: slider;
-}
+
 .projects {
   grid-area: projects;
   max-width: 100%;
