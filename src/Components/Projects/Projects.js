@@ -61,12 +61,11 @@ class Projects extends Component {
         <div className="card-container shadow">
           <div className="card-hoverable">
             <img
-              src="../Assets/projects pics/Squad Projects App.png"
-              alt="App workflow diagram"
-              className="project-img callejeros"
+              src="https://raw.githubusercontent.com/VaniushaR/vaniushar.github.io/portfolio-development/src/Assets/projects%20pics/Squad%20Projects%20App.png"
+              className="project-img" alt="Squad project"
             />
             <div className="middle">
-              <p>This project is built with ReactJS, Firebase and use an authentication login </p>
+              <p>This project is built with ReactJS, Firebase C.R.U.D. and use an authentication login </p>
             </div>
           </div>
           <h3 className="subtitle">Squad Projects App Manager</h3>

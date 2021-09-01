@@ -42,11 +42,7 @@
   transition: 0.5s ease;
   backface-visibility: hidden;
 }
-.callejeros {
-  width: 35%;
-  height: auto;
-  align-items: center;
-}
+
 .middle {
   transition: 0.5s ease;
   opacity: 0;
