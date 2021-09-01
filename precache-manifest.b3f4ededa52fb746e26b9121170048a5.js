@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7dd0bd50008f6befee76",
-    "url": "/static/css/main.8611f032.chunk.css"
+    "revision": "96c184c5ae1fbf1e07c2",
+    "url": "/static/css/main.9f63ac89.chunk.css"
   },
   {
-    "revision": "7dd0bd50008f6befee76",
-    "url": "/static/js/main.64087696.chunk.js"
+    "revision": "96c184c5ae1fbf1e07c2",
+    "url": "/static/js/main.36f859ea.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/Vania Ramírez cv Español.3c59a46d.pdf"
   },
   {
-    "revision": "dc3bfa8a06cd996fb4146e6d85dbebaa",
+    "revision": "20a78ffa0ab91148a5e467cea9bbf3a9",
     "url": "/index.html"
   }
 ];
