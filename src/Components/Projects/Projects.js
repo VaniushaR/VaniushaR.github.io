@@ -61,20 +61,20 @@ class Projects extends Component {
         <div className="card-container shadow">
           <div className="card-hoverable">
             <img
-              src="https://raw.githubusercontent.com/VaniushaR/MxHacksV-Callejeros/master/assets/Documentation/Callejeros.png"
-              alt="Callejeros Screen"
+              src="../Assets/projects pics/Squad Projects App.png"
+              alt="App workflow diagram"
               className="project-img callejeros"
             />
             <div className="middle">
-              <p>This project is built with JS Vanilla. </p>
+              <p>This project is built with ReactJS, Firebase and use an authentication login </p>
             </div>
           </div>
-          <h3 className="subtitle">Callejeros</h3>
+          <h3 className="subtitle">Squad Projects App Manager</h3>
           <div className="box-buttons">
-            <a href="https://vaniushar.github.io/MxHacksV-Callejeros/views/login.html">
+            <a href="https://vaniushar.github.io/projectJT/">
               <button className="text-btn">Ver Demo</button>
             </a>
-            <a href="https://github.com/VaniushaR/MxHacksV-Callejeros">
+            <a href="https://github.com/VaniushaR/projectJT">
               <button className="text-btn">Ver Repositorio</button>
             </a>
           </div>
