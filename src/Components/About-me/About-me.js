@@ -31,21 +31,30 @@ class AboutMe extends Component {
             </span>
             <br />
             <br />
+            <Typing.Delay ms={1000} />
+            <span> By now I have been working around 3 years for Citibanamex as App Development Programmer. 
+            Specially in Front-End and in automation to adopt CICD processes. ...
+            </span>
+            <Typing.Backspace count={3} />
+            <span> My favourite lib for Front-End is React JS, I love how powerful and fast it is! 
+            </span>
+            <br/>
+            <br />
             <Typing.Delay ms={1500} />
             <span> I'm mexican,</span>
             <span> I speak Spanish, ...</span>
             <Typing.Backspace count={4} />
-            <span> also I speak English, </span>
-            <span> and a bit of Portuguese. ...</span>
+            <span> also I speak fluent English, </span>
+            <span> and a bit of Portuguese. ... . ... ,</span>
             <Typing.Backspace count={4} />
             <span> "Oi gente, tudo bem! Muito prazer, de onde você é?"</span>
             <Typing.Delay ms={3000} />
             <Typing.Reset count={35} delay={200} />
             <span> Just kidding, ...</span>
             <span> I'm a nice and simply person.</span>
-            <span> Love to talk and connecting with people.</span>
+            <span> Love to talk connecting with people.</span>
             <Typing.Delay ms={1000} />
-            <span> My favourite animal is the wolf, what is yours?</span>
+            <span> My favourite animal is the wolf, which one is yours?</span>
             <Typing.Delay ms={2000} />
           </section>
         </Typing>
