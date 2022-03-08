@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "96c184c5ae1fbf1e07c2",
-    "url": "/static/css/main.9f63ac89.chunk.css"
+    "revision": "dae3421f809ce7114b33",
+    "url": "/static/css/main.3e53de07.chunk.css"
   },
   {
-    "revision": "96c184c5ae1fbf1e07c2",
-    "url": "/static/js/main.36f859ea.chunk.js"
+    "revision": "dae3421f809ce7114b33",
+    "url": "/static/js/main.e312e46e.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,11 +28,11 @@ self.__precacheManifest = [
     "url": "/static/media/Vania Ramírez cv English.318e2f96.pdf"
   },
   {
-    "revision": "3c59a46d5fd84da3df60b961a9d63d68",
-    "url": "/static/media/Vania Ramírez cv Español.3c59a46d.pdf"
+    "revision": "17c42c67cf8e2d7b6817bc47c74ef315",
+    "url": "/static/media/Vania Ramírez cv Español.17c42c67.pdf"
   },
   {
-    "revision": "20a78ffa0ab91148a5e467cea9bbf3a9",
+    "revision": "be8f20ac3793342c530744b86195c733",
     "url": "/index.html"
   }
 ];
