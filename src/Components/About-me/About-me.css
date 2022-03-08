@@ -1,0 +1,16 @@
+.write-area {
+  padding: 5%;
+  text-align: left;
+}
+@media screen and (max-width: 959px) {
+  .write-area {
+    text-align: center;
+    padding: 3%;
+  }
+}
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+  font-family: 'Satisfy', cursive;
+
+  */
