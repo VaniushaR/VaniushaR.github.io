@@ -22,7 +22,7 @@ class App extends Component {
         </div>
 
         <div className="profile">
-          <a className="profile-card">
+          <a className="profile-card" href="https://www.linkedin.com/in/vaniaramirezmx/">
             <img
               src={profile}
               className="logo profile-pic shadow"

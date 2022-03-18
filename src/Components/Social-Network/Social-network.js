@@ -2,7 +2,6 @@ import React, { Component, Fragment } from 'react';
 import posed from 'react-pose';
 import SocialData from './SocialData';
 import './Social-Network.css';
-import AnimatedWork from '../Animation/Animation';
 import CVE from '../../Assets/Vania Ramírez cv English.pdf';
 import CVS from '../../Assets/Vania Ramírez cv Español.pdf';
 
@@ -25,9 +24,9 @@ class SocialNetwork extends Component {
               <h1 className="title title-sn shadow">Social Network</h1>
               {SocialData.map(
                 ({ title, content, link, content2, content3 }, i) => (
-                  <Fragment>
+                  <Fragment key={i}>
                     <h2
-                      className="box-social shadow"
+                      className="box-social shadow" 
                       onClick={() =>
                         this.setState({ open: open === i ? false : i })
                       }

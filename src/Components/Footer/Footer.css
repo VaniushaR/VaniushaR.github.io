@@ -2,9 +2,10 @@
   font-family: 'Oswald', sans-serif;
   font-size: 200%;
   color: black;
+  
 }
 .footer-sticky-area {
-  margin-top: 140em;
+  margin-top: 180em;
   margin-left: 15%;
 }
 @media screen and (max-width: 959px) {
